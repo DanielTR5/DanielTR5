@@ -10,7 +10,7 @@
   <a href="mailto:reytorresdaniel@gmail.com" target="blank">
     <img width="80" height="80" align="center" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail" />
   </a>
-  <a href="www.linkedin.com/in/daniel-torres-rey-3414441ba" target="blank">
+  <a href="https://www.linkedin.com/in/daniel-torres-rey-3414441ba/">
      <img width="80" height="80" align="center" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/>
   </a>
 </p>
