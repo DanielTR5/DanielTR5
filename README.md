@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="2.png" alt="Banner" width="100%">
+<img src="img/2.png" alt="Banner" width="100%">
 
 <h1 align="center">Daniel Torres Rey | @ICON TECNOLOGY ✨</h1>
 
@@ -46,21 +46,21 @@ Emprendedor, desarrollador web y técnico informático con experiencia en soport
   <tr>
     <td align="center">
       <a href="" target="_blank">
-        <img align="center" src="icon.png"  width="200" />
+        <img align="center" src="img/icon.png"  width="200" />
       </a>
       <p><b>Pagina Web Icon Tecnology</b></p>
       <p>HTML • CSS • JAVA</p>
     </td>
     <td align="center">
       <a href="">
-        <img align="center" src="pintura.png" width="200" />
+        <img align="center" src="img/pintura.png" width="200" />
       </a>
       <p><b>Pagina Web Pintura Decorativa e Industrial</b></p>
       <p>HTML • CSS • JAVA</p>
     </td>
     <td align="center">
       <a href="h">
-        <img align="center" src="oneshot.png" width="150" />
+        <img align="center" src="img/oneshot.png" width="150" />
       </a>
       <p><b>Tienda Online Camisetas Futbol</b></p>
       <p>HTML • CSS • JAVA</p>
