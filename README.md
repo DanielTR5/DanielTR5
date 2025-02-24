@@ -31,7 +31,7 @@ Emprendedor, desarrollador web y técnico informático con experiencia en soport
 ### Skills
 
 <p align="center">
-<<img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/>
 <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
 <img width="96" height="96" src="https://img.icons8.com/stickers/100/wordpress.png" alt="wordpress"/>
 <img width="96" height="96" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
