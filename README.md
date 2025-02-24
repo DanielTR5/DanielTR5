@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="2.png" alt="Banner" width="100%">
 
-<h1 align="center">Hola 👋, soy Daniel Torres | @ICON TECNOLOGY ✨</h1>
+<h1 align="center">Daniel Torres Rey | @ICON TECNOLOGY ✨</h1>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1UcGkh7W3m/?mibextid=wwXIfr" target="blank">
