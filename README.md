@@ -45,14 +45,14 @@ Emprendedor, desarrollador web y técnico informático con experiencia en soport
 <table align="center">
   <tr>
     <td align="center">
-      <a href="" target="_blank">
+      <a href="https://icontechnology.es/" target="_blank">
         <img align="center" src="Img/icon.png"  width="200" />
       </a>
       <p><b>Pagina Web Icon Tecnology</b></p>
       <p>HTML • CSS • JAVA</p>
     </td>
     <td align="center">
-      <a href="">
+      <a href="https://www.pinturasjulioalbertotorres.es/">
         <img align="center" src="Img/pintura.png" width="200" />
       </a>
       <p><b>Pagina Web Pintura Decorativa e Industrial</b></p>
