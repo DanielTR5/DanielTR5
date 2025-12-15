@@ -62,8 +62,8 @@ Emprendedor, desarrollador web y técnico informático con experiencia en soport
       <a href="https://www.linkedin.com/in/daniel-torres-rey-3414441ba/">
         <img align="center" src="Img/oneshot.png" width="150" />
       </a>
-      <p><b>Tienda Online Camisetas Futbol</b></p>
-      <p>HTML • CSS • JAVA</p>
+      <p><b>Blog Personal ICONTech</b></p>
+      <p>HTML • CSS • PHP • MYSql</p>
     </td>
   </tr>
 </table>
