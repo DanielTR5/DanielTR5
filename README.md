@@ -65,5 +65,12 @@ Emprendedor, desarrollador web y técnico informático con experiencia en soport
       <p><b>Blog Personal ICONTech</b></p>
       <p>HTML • CSS • PHP • MYSql</p>
     </td>
+      <td align="center">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7392219567579725824/">
+        <img align="center" src="Img/blo_personal.jpeg" width="250" />
+      </a>
+      <p><b>Blog Personal ICONTech</b></p>
+      <p>HTML • CSS • PHP • MYSql</p>
+    </td>
   </tr>
 </table>
